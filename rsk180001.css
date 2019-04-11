@@ -1,0 +1,51 @@
+.container-fluid
+{
+	display: table;
+}
+
+.col-sm-4 { 
+    margin-top: 1px; 
+    font-size: 50px;
+}
+.col-sm-8
+{
+    margin-top: 1px;
+    
+}
+
+.alignment{
+    margin-left: 10%;    
+}
+.parisAlign{
+    margin-left: 10%;
+}
+.tokyoalign{
+    margin-left: 10%;
+}
+.myheader
+{
+    padding: 30px;
+    text-align: center;
+    background-color: grey;
+    font-size: 30;
+    
+}
+.myfooter
+{
+    text-align: center;
+    background-color: grey;
+    font-size: 10;
+    
+}
+
+.london {
+    height: 400px;
+}
+.paris{
+    height: 400px;
+}
+.londonimg{
+    margin-left: 20px;
+}
+
+
